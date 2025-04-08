@@ -4687,7 +4687,7 @@ INSERT INTO Disease VALUES('DALYs (Disability-Adjusted Life Years)', 344, 'Negle
 INSERT INTO Disease VALUES('DALYs (Disability-Adjusted Life Years)', 344, 'Neglected tropical diseases and malaria', 'Rate', 2010, 35.95947713, 54.85127265, 22.0854015);
 INSERT INTO Disease VALUES('DALYs (Disability-Adjusted Life Years)', 344, 'Neglected tropical diseases and malaria', 'Number', 2015, 111709.452, 167652.5022, 72549.09429);
 INSERT INTO Disease VALUES('DALYs (Disability-Adjusted Life Years)', 344, 'Neglected tropical diseases and malaria', 'Rate', 2015, 34.7128802, 52.09676639, 22.5440907);
-INSERT INT
+
 
 INSERT INTO TotalExpenditure VALUES(1980, 253.2, 232.7, 214.3, 11.9, 6.4, 20.6);
 INSERT INTO TotalExpenditure VALUES(1990, 718.7, 670.2, 611.9, 38.3, 20.0, 48.6);
@@ -4825,3 +4825,5 @@ INSERT INTO TotalExpenditureInRealDollars VALUES(2020, 3906.7, 3206.4, 1175.4 , 
 INSERT INTO TotalExpenditureInRealDollars VALUES(2021, 4007.9, 3338.8, 1199.9 , 828.8, 128.3, 148.6, 200.6, 112.9, 160.5, 393.7, 108.2, 63.7,   47.1 ,   231.7 ,   186.5 ,   57.0 ,   147.8 );
 INSERT INTO TotalExpenditureInRealDollars VALUES(2022, 4064.9, 3423.6, 1204.1 , 862.5, 130.8, 142.3, 211.2, 117.5, 165.0, 422.3, 112.5, 65.9,   46.5 ,   227.1 ,   171.9 ,   59.4 ,   139.6 );
 INSERT INTO TotalExpenditureInRealDollars VALUES(2023, 4245.3, 3645.4, 1294.7 , 921.3, 146.2, 143.0, 217.7, 124.8, 170.6, 460.0, 113.4, 67.0,   47.4 ,   231.3 ,   131.7 ,   60.7 ,   138.0 );
+
+commit;
