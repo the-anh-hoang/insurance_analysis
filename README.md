@@ -20,6 +20,7 @@ pip install pandas matplotlib scikit-learn numpy
 
 #### 3. Location of SQL queries:
 
-- Research question 1:
+- Research question 1: all code cells in the notebook has the same format of using SQL to query the required data from the database -> fetch and convert to pandas dataframe and finally uses matplotlib for plotting and analysis.
 
 - Research question 2 (connection.ipynb): most of the cells in the file have SQL query. We only do not use SQL when it comes to visualization (line 13, 19, 21, ) and model training (line 15) 
+
