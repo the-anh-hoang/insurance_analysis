@@ -6,8 +6,6 @@ pip install pandas matplotlib scikit-learn numpy
 
 #### 2. Project File Descriptions:
 
-- research_question_2.ipynb: The main notebook where all analysis related to Research Question 2 is conducted. It includes data exploration, visualizations, correlation and regression analysis, and SQL queries.
-
 - connection.ipynb: This notebook contains the code and analysis for answering Research Question 2, which investigates impactful categories in healthcare expenditures and their relationship to disease-related deaths over time.
 
 - index.ipynb: Used to dynamically insert data into the SQLPLus database. It creates and populates tables from preprocessed CSV or dataframes.
